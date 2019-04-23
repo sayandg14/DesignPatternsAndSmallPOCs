@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package com.spring.servicelocatorfactorybean;
+
+/**
+ * @author user
+ *
+ */
+public class MobileFactory {
+
+	Mobile getMobile(MobileType mobileType);
+}

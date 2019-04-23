@@ -1,0 +1,13 @@
+package com.spring.servicelocatorfactorybean;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ServicelocatorfactorybeanApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ServicelocatorfactorybeanApplication.class, args);
+	}
+
+}

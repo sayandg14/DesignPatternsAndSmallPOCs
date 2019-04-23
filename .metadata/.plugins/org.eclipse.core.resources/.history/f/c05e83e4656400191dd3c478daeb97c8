@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.spring.servicelocatorfactorybean;
+
+/**
+ * @author user
+ *
+ */
+public enum MobileType {
+
+	NOKIA("nokia") , SAMSUNG("samsung") , MI("mi") ;
+	
+	
+}

@@ -1,0 +1,11 @@
+package com.sayan.java8.funcinterface;
+
+
+@FunctionalInterface
+interface Calculation {
+	int operate(int a,int b);
+}
+
+public class FuncInterfaceMain {
+
+}
